@@ -1,0 +1,3 @@
+H:\realm-dotnet-interfaces\realm-dotnet-framework-4.8\obj\Debug\realm-dotnet-framework-4.8.csproj.AssemblyReference.cache
+H:\realm-dotnet-interfaces\realm-dotnet-framework-4.8\obj\Debug\realm-dotnet-framework-4.8.csproj.SuggestedBindingRedirects.cache
+H:\realm-dotnet-interfaces\realm-dotnet-framework-4.8\obj\Debug\realm-dotnet-framework-4.8.csproj.CoreCompileInputs.cache
